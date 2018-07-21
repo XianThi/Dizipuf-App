@@ -1,0 +1,8 @@
+Package: com.xianthi.dizipuf
+Name: Dizipuf
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: online movie watching application!
+Maintainer: XianThi
+Author: XianThi
+Section: Utilities
